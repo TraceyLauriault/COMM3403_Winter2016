@@ -48,7 +48,7 @@
 ## In class participation (10%)
 The course is heavily structured around in class activities, participation and reading. 5% is for attendance, which will be taken, and 5% for in class participation.
 
-## 3 Assignments 3 (35%)
+## 3 Assignments (35%)
 Include the following in the document header: 
 > Communication, Technology and Culture, COMM3403A, Submitted to: Dr. Tracey P. Lauriault, Assignment #, dd/mm/yyyy, First and Last Name, Student ID
 
@@ -83,7 +83,7 @@ Student ID
 Submitted to: Dr. Tracey P. Lauriault
 Date: dd/mm/yyyy
 
-#### Guideline for Assignments, Proposal and Essay: 
+#### Guideline for Assignments, Proposal and Essay
 * Microsoft Word .doc or .docx file submitted to CuLearn
 * Use 12 pt, double-spaced type - essay and single spaced type - assignments in an appropriate font (e.g., Times New Roman, Garamond), flush left, with 1-inch margins and indented paragraphs.
 * Number the pages
@@ -122,7 +122,7 @@ _Welcome to the class!_ We will get to know each other, go over the course outli
 
 * Barbrook, Richard and Andy Cameron (1996) [The Californian Ideology](https://doi.org/10.1080/09505439609526455), _Science as Culture_, 6(1) pp.44-72, (28).  Also a short version online at the [Hypermedia Research Centre](http://www.hrc.wmin.ac.uk/theory-californianideology-main.html). 
 
-#### Assignment 1 (Due midnight Jan. 17) (10%): 
+#### Assignment 1 (Due midnight Jan. 17) (10%) 
 > In 2 pages (single spaced 12 pt font), you are to write about a technology that you carry with you every day, it can be a device or an app, one you think you cannot do without, it could be for a health reason, social reason, economic reason, or all of the above.  Name the device or app, name the company who made it, state where it is made, the cost, does it rely on any underlying infrastructure, if there are ongoing costs, to whom do you pay these costs, how often have you replaced it, if there is a terms of use, what is it and who owns the data and what are your privacy rights, describe the device aesthetically, instrumentally, and emotionally and discuss how you use it, and what would happen if you did not.  Also, engage with concepts you learned in class.
 
 ## Week 2 (Jan. 18) – The Philosophy of Technology
